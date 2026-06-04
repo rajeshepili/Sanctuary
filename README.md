@@ -120,14 +120,15 @@ pnpm check
 
 ## Documentation
 
-| Document                                     | Description                                       |
-| -------------------------------------------- | ------------------------------------------------- |
-| [CONTRIBUTING.md](CONTRIBUTING.md)           | Development setup, PR checklist, code conventions |
-| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Stack, folder layout, feature modules             |
-| [docs/PRIVACY.md](docs/PRIVACY.md)           | Local-only data handling                          |
-| [CHANGELOG.md](CHANGELOG.md)                 | Version history                                   |
-| [SECURITY.md](SECURITY.md)                   | Reporting vulnerabilities                         |
-| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)     | Community standards                               |
+| Document                                     | Description                                                                     |
+| -------------------------------------------- | ------------------------------------------------------------------------------- |
+| [CONTRIBUTING.md](CONTRIBUTING.md)           | Development setup, PR checklist, code conventions                               |
+| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Stack, folder layout, feature modules                                           |
+| [docs/PRIVACY.md](docs/PRIVACY.md)           | Local-only data handling                                                        |
+| [CHANGELOG.md](CHANGELOG.md)                 | Version history                                                                 |
+| [SECURITY.md](SECURITY.md)                   | Reporting vulnerabilities                                                       |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)     | Community standards                                                             |
+| [MOTIVATION.md](MOTIVATION.md)               | Why I built this app: habits, journaling, and learning open source development. |
 
 ## Contributing
 
